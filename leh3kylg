@@ -1,0 +1,33 @@
+<head> </head>
+<body>
+<h1> Kuidas minna Tallinna Tehnikaülikooli veebilehele?</h1>
+Olen tihti sattunud olukorda, kus mul ei tule meelde,
+<br>
+kuidas ma saaksin minna enda ülikooli, Tallinna Tehnikaülikooli,
+<br>
+koduleheküljele, ilma, et ma mõnele oma nutikamale sõbrale peaks helistama.
+<br>
+Aga nüüd, saan tänu oma teadmistele selle probleemi lahendada:
+<br>
+Nimelt teen ma enda lehekülje, kus on link TalTech'i koduleheküljele.
+
+<h2> Veebilehe koostaja andmed</h2>
+
+<table style="width:40%">
+  <tr>
+    <th>Eesnimi</th>
+    <th>Perekonnanimi</th>
+    <th>Matriklikood</th>
+  </tr>
+  <tr>
+    <td>Stefen</td>
+    <td>Sumla</td>
+    <td>185701</td>
+  </tr>
+</table>
+
+
+<img src="https://www.ttu.ee/extensions/ttu/frontpage/181978-2.jpg" alt="Koht, kuhu vajutama pead">
+<h1><a href="https://www.ttu.ee/">TalTech'i kodulehekülg</a></h1>
+</body>
+
